@@ -1,5 +1,4 @@
 # Notes from OpenShift Workshop back in Feb 2021.
-
 Welcome to OpenShift Advanced Application Deployment 
 Location: Virtual
 Instructors:   Judd Maltin
